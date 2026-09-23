@@ -1,6 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=25&pause=1000&width=435&lines=Hey+there!+👋+I'm+Momina+✨)](https://git.io/typing-svg)
 
 <strong>Software Engineering Student | TUF | Semester 5</strong>
+<hr>
 
 ## 👨‍💻 About Me
 
